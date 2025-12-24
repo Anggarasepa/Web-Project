@@ -1,0 +1,42 @@
+body {
+    font-family: Helvetica, sans-serif;
+    background-color: #8faeaa;
+}
+
+.container {
+    width: 300px;
+    margin: 100px auto;
+    padding: 20px;
+    background: rgb(255, 255, 255);
+    border-radius: 8px;
+    text-align: center;
+}
+
+input {
+    width: 94%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+button {
+    width: 100%;
+    padding: 8px;
+    cursor: pointer;
+}
+
+.lulus {
+    color: green;
+}
+
+.tidak-lulus {
+    color: orange;
+}
+
+.error {
+    color: rgb(255, 25, 0);
+}
+
+#hasil {
+    margin-top: 10px;
+    font-weight: bold;
+}
